@@ -1,0 +1,17 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+.recipe-image {
+    width: 500px;
+    height: auto; 
+}
+
+.ingredients {
+    font-size: 22px;
+    background-color: #F5E642;
+}
+
+.steps {
+    font-size: 22px;
+    background-color: #F542BF;
+}
